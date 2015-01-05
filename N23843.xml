@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <body>
          <div type="address">
-            <pb facs="tcp:031539_0000_0FECF0BD42154B70"/>
-            <pb facs="tcp:031539_0001_0FECF0B811FE9CF8"/>
+            <pb facs="unknown:031539_0000_0FECF0BD42154B70"/>
+            <pb facs="unknown:031539_0001_0FECF0B811FE9CF8"/>
             <head>To the <hi>PEOPLE</hi> of the <hi>UNITED STATES.</hi>
             </head>
             <opener>
@@ -432,7 +432,8 @@
                </gap> there will <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb facs="tcp:031539_0002_0FECF0BB97B9DE28" rendition="simple:additions"/>
+               <pb facs="unknown:031539_0002_0FECF0BB97B9DE28"
+                   rendition="simple:additions"/>
 be enough of that spirit for <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> salutary purpose. And there being constant danger of <gap reason="illegible: indecipherable" extent="1 span">
